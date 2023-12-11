@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saputra</h1>
-<h3 align="center">Someone who wants to be a Software Developer</h3>
+<h3 align="center">Someone who wants to be a Front-End Developer</h3>
 <img align="right" alt="dataanlyst" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kjaoh78hmwu3jtm9cio3jpy2u18aqclnihqccaar&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently Studying at **CCIT Faculty Of Engineering University Of Indonesia**
+- 🔭 I’m a Fresh Graduate at **CCIT Faculty Of Engineering University Of Indonesia**
 
-- 🌱 I’m currently learning **Tableau, Tailwind, Laravel**
+- 🌱 I’m currently learning **Tailwind, JavaScript and MERN**
 
-- 💬 Ask me about **Kotlin, Android, Python and Data Analyst**
+- 💬 Ask me about **Kotlin, Android, CodeIgniter, PHP, Python and Machine Learning**
 
 - 📫 How to reach me **ibrhmsptra@gmail.com**
 
