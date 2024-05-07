@@ -4,9 +4,9 @@
 
 - 🔭 I’m a Fresh Graduate at **CCIT Faculty Of Engineering University Of Indonesia**
 
-- 🌱 I’m currently learning **Tailwind, JavaScript and MERN**
+- 🌱 I’m currently learning **Backend Developer Node.js**
 
-- 💬 Ask me about **Kotlin, Android, CodeIgniter, PHP, Python and Machine Learning**
+- 💬 Ask me about **ReactJs , Tailwind, Javascript, Responsive Web Design**
 
 - 📫 How to reach me **ibrhmsptra@gmail.com**
 
