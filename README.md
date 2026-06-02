@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Saputra</h1>
-<h3 align="center">Someone who wants to be a Front-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="dataanlyst" width=400 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kjaoh78hmwu3jtm9cio3jpy2u18aqclnihqccaar&rid=giphy.gif&ct=g">
 
-- 🔭 I’m a Fresh Graduate at **CCIT Faculty Of Engineering University Of Indonesia**
-
-- 🌱 I’m currently learning **Backend Developer Node.js**
-
-- 💬 Ask me about **ReactJs , Tailwind, Javascript, Responsive Web Design**
-
-- 📫 How to reach me **ibrhmsptra@gmail.com**
-
-- ⚡ Fun fact **pro-gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
